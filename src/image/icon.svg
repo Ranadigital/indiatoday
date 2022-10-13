@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 248.92px;
+        fill: #fff;
+        font-family: Arial;
+        text-transform: uppercase;
+      }
+    </style>
+  </defs>
+  <circle cx="500.5" cy="500.5" r="496.719"/>
+  <text id="PRINT" class="cls-1" x="104.738" y="588.56">PRINT</text>
+</svg>
